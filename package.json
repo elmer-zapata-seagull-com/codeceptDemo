@@ -17,5 +17,8 @@
         "codeceptjs": "^3.7.2",
         "playwright": "^1.51.1",
         "webdriverio": "^6.12.1"
+    },
+    "dependencies": {
+        "mongodb": "^6.15.0"
     }
 }
