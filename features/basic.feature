@@ -5,5 +5,5 @@ Feature: Business rules
 
   Scenario: do something
     Given I have a defined step
-    When I verify my bd that my collection is not empty
+    When I try to login in main page
     Then I expect a result
